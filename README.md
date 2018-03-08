@@ -1,0 +1,1 @@
+This file has to be run in the babylonjs playground
